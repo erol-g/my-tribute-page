@@ -1,0 +1,70 @@
+html {
+  font-family: Arial;
+  }
+
+body {
+  text-align : center;
+  margin-left: 200px;
+  margin-right:200px;
+  background-color:green;
+}
+
+h1 {
+  font-family: Century;
+  font-size:55px;
+}
+
+
+img {
+  
+  max-width: 90%;
+  display: block;
+  height: auto;
+  border-radius: 10px;
+  margin: auto;
+}
+
+#img-caption {
+  font-family: serif;
+  font-size: 27px;
+  color: gray;
+}
+
+#tribute-info {
+  font-family: Verdana;
+  
+}
+
+h3 {
+  font-style: Verdana;
+  font-size: 33px;
+  color:white;
+}
+
+#headline{
+    font-family: coroine;
+  
+  }
+p {
+  line-height: 2.7; 
+}
+#tribute-link {
+  font-size: 23px;
+  color: pink;
+  font-style:Times New Roman;
+  
+}
+
+h4 {
+  font-style: Verdana;
+  font-size: 24px;
+ 
+  }
+
+footer{
+ font-size: 10px;
+  margin:30px;
+  margin-left:800px;
+}
+
+
